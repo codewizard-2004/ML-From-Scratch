@@ -6,8 +6,8 @@ This repository contains implementations of fundamental machine learning algorit
 
 | Algorithm | Description | Implementation Link |
 |-----------|------------|---------------------|
-| Linear Regression | Predicts continuous values using linear relationships | [linear_regression.py](./linear_regression.py) |
-| Logistic Regression | Binary classification using sigmoid function | [logistic_regression.py](./logistic_regression.py) |
+| Linear Regression | Predicts continuous values using linear relationships | [linear_regression.py](./linear_regression/main.py) |
+| Logistic Regression | Binary classification using sigmoid function | [logistic_regression.py](./logistic_regression/main.py) |
 
 ## Libraries Used
 
